@@ -1,7 +1,9 @@
 # PixysOS packages
 PRODUCT_PACKAGES += \
     Updater \
-    ThemePicker
+    ThemePicker \
+    NoCutoutOverlay \
+    AvoidAppsInCutoutOverlay
 
 # Extra tools in Pixys
 PRODUCT_PACKAGES += \
